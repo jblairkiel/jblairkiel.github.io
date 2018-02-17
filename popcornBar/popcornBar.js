@@ -1,14 +1,3 @@
-/**
- * jQuery Gradientify plugin 1.0.0
- *
- * Provides animating CSS gradients.
- * Based on http://opticalcortex.com/animating-css-gradients/ by Mike Byrne.
- *
- * @author  Codefog <http://codefog.pl>
- * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
- * @license MIT License
- * @see     http://opticalcortex.com/animating-css-gradients/
- */
 (function ($, window, document, undefined) {
 
 	'use strict';
